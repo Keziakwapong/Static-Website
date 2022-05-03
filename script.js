@@ -1,0 +1,1 @@
+document.write("Tap here for more Information about the Church")

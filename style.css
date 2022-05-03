@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url("./WhatsApp\ Image\ 2022-05-02\ at\ 9.30.23\ PM.jpeg");
+    background-size: 130%;
+    background-position: -400px 0px;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: darkslategrey;
+}
+h2 {
+    text-align: center;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: black;
+}
+h3 {
+    text-align: center;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+p {
+    text-align: center;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
